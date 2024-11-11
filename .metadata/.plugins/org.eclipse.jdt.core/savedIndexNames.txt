@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Kutay\Desktop\Java_Project\SnakeGame\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3413270776.index
+4061252866.index
